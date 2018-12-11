@@ -1,0 +1,4 @@
+B100,Pointless Meetings,Meetings Waste a Day in the Life of Work,4.95,Desk Employee
+B200,MySQL For Coders,For those who have homework they should be doing instead,19.95,Edwared Crastinator
+B300,Killer Online Games,For those who have homework they should be doing instead,19.95,Pro Crastinator
+B400,PHP PHP PHP, Why PHP?,19.95,Pro Crastinator
