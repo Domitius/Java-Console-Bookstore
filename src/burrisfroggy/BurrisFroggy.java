@@ -18,8 +18,6 @@ public class BurrisFroggy {
      */
     public static void main(String[] args) {
         
-        // Whats left to do is decide if you want to throw some of these functions into other classes. Only if the function involve the objects heavily and makes since logically.
-        
         // This is a universal Scanner that multiple functions will use.
         Scanner keyboardInput = new Scanner(System.in);
         
